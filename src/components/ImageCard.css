@@ -1,0 +1,20 @@
+.option{
+    display: flex;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+}
+.option h2{
+    text-decoration: none;
+}
+
+.option img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    max-width: 100%;
+    max-height: 100%;
+}

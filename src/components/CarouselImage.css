@@ -1,0 +1,20 @@
+.carousel{
+    width: 100vw;
+    height: 100vh;
+    background-color: #548687;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.naturePhoto{
+    width: 500px;
+    height: 300px;
+    max-width: 500px;
+    max-height: 300px;
+    display: flex;
+    justify-content: center;
+}
+.naturePhoto img{
+    max-width: 100%;
+    max-height: 100%;
+}

@@ -1,0 +1,11 @@
+.scrolling{
+    padding-left: 3rem;
+    height: 100vh;
+    width: 100vw;
+    background-color: #548687;
+    display: flex;
+    flex-direction: row;
+    overflow:scroll;
+    gap: 3rem;
+    align-items: center;
+}
